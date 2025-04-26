@@ -1,6 +1,7 @@
 # VS & Rider user specific files
 */.vs/
 */.idea/
+*/Content/Developers/
 
 # Compiled Object files
 *.slo
